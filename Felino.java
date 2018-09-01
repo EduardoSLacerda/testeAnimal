@@ -9,7 +9,7 @@ public class Felino extends Animal {
     }
 
     /**
-     * @param color the color to set
+     * @param color the color to set a
      */
     public void setColor(String color) {
         this.color = color;
