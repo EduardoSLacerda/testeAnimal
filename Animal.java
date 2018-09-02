@@ -11,7 +11,7 @@ public class Animal {
     }
 
     /**
-     * @param name the name to set b
+     * @param name the name to set B
      */
     public void setName(String name) {
         this.name = name;
